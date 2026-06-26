@@ -1,4 +1,3 @@
-Descrição curta 
 
 CLI de controle de estoque em Python (POO) com CRUD completo, persistência em JSON e validação de entradas do usuário.
 
